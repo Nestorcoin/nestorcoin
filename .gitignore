@@ -1,0 +1,34 @@
+src/*.exe
+src/nestorcoin
+src/nestorcoind
+src/test_nestorcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.nestorcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+nestorcoin-qt
+Nestorcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+nestorcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

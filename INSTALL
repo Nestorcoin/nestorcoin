@@ -1,0 +1,9 @@
+Building Nestorcoin
+
+See doc/readme-qt.rst for instructions on building Nestorcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Nestorcoin.
+
+See doc/build-*.txt for instructions on building nestorcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Nestorcoin.
