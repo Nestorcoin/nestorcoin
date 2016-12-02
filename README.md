@@ -62,6 +62,8 @@ Block halving	210000 blocks
 
 Total coin supply	42000000 coins
 
+Premine amount	21000000 coins
+
 Coinbase maturity	20 blocks
 
 Target spacing	5 minutes
