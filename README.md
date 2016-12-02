@@ -1,3 +1,5 @@
+Nestorkoin - the coin of freedom!
+
 Nestorcoin integration/staging tree
 
 http://nestorcoin.com
@@ -174,7 +176,7 @@ Yes!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 GOOD MINING!
 
-Nestorkoin gives freedom!
+Nestorkoin - the coin of freedom!
 
 Contacts
 
