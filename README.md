@@ -42,8 +42,6 @@ The patch will be accepted if there is broad consensus that it is a good thing. 
 
 The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are created regularly to indicate new official, stable release versions of Nestorcoin.
 
-Order type	paid
-
 Algorithm	Scrypt
 
 Type	PoW
