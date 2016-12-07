@@ -22,6 +22,8 @@ nestorcoin-daemon-linux
 
 https://github.com/Nestorcoin/nestorcoin-daemon-linux
 
+Please Vote the Nestorcoin https://c-cex.com/?id=vote&coin=nst
+
 What is Nestorcoin?
 
 Nestorcoin is a lite version of Litecoin using scrypt as a proof-of-work algorithm.
